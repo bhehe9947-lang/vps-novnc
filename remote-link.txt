@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://staff-taking-gas-links.trycloudflare.com/vnc.html
+URL       : https://note-ins-prediction-luis.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 15:18:41
+Created   : 2026-08-15 20:20:09
 =======================================================
