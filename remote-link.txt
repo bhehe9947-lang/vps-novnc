@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://automobiles-console-excited-stop.trycloudflare.com/vnc.html
+URL       : https://bra-lancaster-ampland-pricing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 11:55:12
+Created   : 2026-08-19 15:30:14
 =======================================================
