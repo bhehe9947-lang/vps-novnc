@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pgp-detroit-hair-toolbar.trycloudflare.com/vnc.html
+URL       : https://bug-strongly-provinces-kits.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-21 05:41:41
+Created   : 2026-08-21 10:40:30
 =======================================================
