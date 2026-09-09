@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pie-reggae-nascar-brighton.trycloudflare.com/vnc.html
+URL       : https://royal-notebooks-juice-diego.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-09 14:26:16
+Created   : 2026-09-09 18:32:12
 =======================================================
