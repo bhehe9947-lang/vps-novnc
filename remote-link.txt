@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://segments-brooklyn-princeton-trademarks.trycloudflare.com/vnc.html
+URL       : https://measurements-boss-clearly-owned.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-13 04:35:43
+Created   : 2026-09-13 10:09:31
 =======================================================
